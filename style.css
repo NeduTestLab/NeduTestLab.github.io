@@ -55,10 +55,10 @@ div#bg > img {
   float: right;
 }
 #cssmenu > ul > li > a {
-  padding: 16px 20px;
+  padding: 40px 50px;
   font-size: 14px;
   color: #EAEAEA;
-  letter-spacing: 40px;
+  letter-spacing: 4px;
   text-transform: uppercase;
   text-decoration: none;
   background: #171717;
