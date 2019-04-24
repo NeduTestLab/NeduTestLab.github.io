@@ -209,13 +209,13 @@ div#bg > img {
     margin:0px;
     border:0px blue solid;
     position:absolute;        /*框架位置，大小调整*/
-    top:110px;
-    right:150px;
+    top:1110px;
+    right:450px;
 }
 #d4 {
     margin: 0px;
-    width:1510px;
-    height:1510px;    /*about me_1 的边框设置*/
+    width:2510px;
+    height:2510px;    /*about me_1 的边框设置*/
     padding:0px;
     border:0px ;
 }
