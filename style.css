@@ -199,7 +199,7 @@ div#bg > img {
 /*End the words of homepage*/
 #iframe1{ 
        margin :0px;
-       width:530px;            /*框架设置*/
+       width:1530px;            /*框架设置*/
        height:1530px;
        border:0px; 
        scrolling:no;
@@ -209,13 +209,13 @@ div#bg > img {
     margin:0px;
     border:0px blue solid;
     position:absolute;        /*框架位置，大小调整*/
-    top:1110px;
+    top:810px;
     right:450px;
 }
 #d4 {
     margin: 0px;
-    width:2510px;
-    height:3510px;    /*about me_1 的边框设置*/
+    width:1510px;
+    height:510px;    /*about me_1 的边框设置*/
     padding:0px;
     border:0px ;
 }
