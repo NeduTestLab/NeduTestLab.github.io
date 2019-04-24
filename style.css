@@ -214,10 +214,10 @@ div#bg > img {
 }
 #d4 {
     margin: 0px;
-    width:510px;
-    height:510px;    /*about me_1 的边框设置*/
+    width:1510px;
+    height:1510px;    /*about me_1 的边框设置*/
     padding:0px;
     border:0px ;
 }
-#p1{color:orange;
-size:7px;}
+#p1{color:black;
+size:9px;}
