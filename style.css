@@ -200,7 +200,7 @@ div#bg > img {
 #iframe1{ 
        margin :0px;
        width:530px;            /*框架设置*/
-       height:530px;
+       height:1530px;
        border:0px; 
        scrolling:no;
        
@@ -215,7 +215,7 @@ div#bg > img {
 #d4 {
     margin: 0px;
     width:2510px;
-    height:2510px;    /*about me_1 的边框设置*/
+    height:3510px;    /*about me_1 的边框设置*/
     padding:0px;
     border:0px ;
 }
