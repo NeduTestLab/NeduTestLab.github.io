@@ -187,14 +187,14 @@ div#bg > img {
 { clear: both;/*也可用voerflow：hidden；来清除浮动影响*/
   font-family:arial;
   color:#FFFFFF;
-  font-size:40px;
+  font-size:80px;
 }
 #homewords{
   
   z-index: -1;
  position:absolute;
  top:550px;
- left:50px;
+ left:100px;
 }
 /*End the words of homepage*/
 #iframe1{ 
